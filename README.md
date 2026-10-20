@@ -14,6 +14,8 @@ Pertanyaan 3: Seberapa besar selisih rata-rata skor review antara pesanan yang t
 ## Struktur Direktori
 ```
 submission
+├───.streamlit
+│   ├───config.toml
 ├───dashboard
 │   ├───main_data.csv
 │   └───dashboard.py
